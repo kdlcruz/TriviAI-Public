@@ -11,7 +11,6 @@ TriviAI ("we", "our", or "us") respects your privacy. This Privacy Policy explai
 We do **not collect personal information** unless you choose to log in using a third-party service (such as Google or Apple). If you choose to log in, we may collect:
 
 - A unique user ID from the authentication provider
-- Basic profile information (e.g., name, email) if permitted
 
 We may also collect non-personal, anonymous data such as:
 
